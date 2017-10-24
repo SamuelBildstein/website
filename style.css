@@ -3,8 +3,11 @@
   
     }
     body{
-      background-color: black;
+      background-color: cornyellow;
     }
 .dienstag{
     color: brown;
+}
+.montag{
+    font-family: Courier New;
 }
